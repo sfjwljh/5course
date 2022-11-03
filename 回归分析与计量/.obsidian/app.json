@@ -18,5 +18,12 @@
   "newFileFolderPath": "课堂笔记",
   "attachmentFolderPath": "附件",
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 64
+  }
 }

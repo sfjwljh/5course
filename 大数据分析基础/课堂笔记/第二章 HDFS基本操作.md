@@ -144,13 +144,13 @@ HDFS提供了一个非常实用的复制命令distcp，通过distcp命令可以�
 
 其中端口号需要与core-site.xml配置文件中设置的端口号相一致，如下所示：
 
-<property>
-
-<name>fs.defaultFS</name>
-
-<value>hdfs://master:9000</value>
-
-</property>
+	<property>
+	
+	<name>fs.defaultFS</name>
+	
+	<value>hdfs://master:9000</value>
+	
+	</property>
 
 为了操作方便，我们在同一个集群中演示distcp命令的使用，因此我们的输入源为hdfs://master:9000/，对应的输出源也为hdfs://master:9000/。
 

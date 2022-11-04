@@ -45,5 +45,7 @@
   "minimal-style@@h5-color@@light": "#42A812",
   "minimal-style@@h2-color@@light": "#129FCC",
   "minimal-style@@h6-color@@light": "#D9BF29",
-  "minimal-style@@zoom-off": true
+  "minimal-style@@zoom-off": true,
+  "minimal-style@@ax1@@light": "#E008B6",
+  "minimal-style@@bold-color@@light": "#FF0000"
 }

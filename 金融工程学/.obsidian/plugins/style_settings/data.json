@@ -42,5 +42,6 @@
   "minimal-style@@h1-l": true,
   "minimal-style@@h3-color@@light": "#F18308",
   "minimal-style@@h4-color@@light": "#7015C4",
-  "minimal-style@@h5-color@@light": "#5FDB25"
+  "minimal-style@@h5-color@@light": "#5FDB25",
+  "minimal-style@@h2-color@@light": "#129FCC"
 }

@@ -18,5 +18,6 @@
   "newFileFolderPath": "课堂笔记",
   "attachmentFolderPath": "附件",
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "showUnsupportedFiles": true
 }

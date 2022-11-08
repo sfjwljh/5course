@@ -12,11 +12,12 @@
   },
   "legacyEditor": false,
   "livePreview": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "课堂笔记",
   "attachmentFolderPath": "附件",
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "showUnsupportedFiles": true
 }

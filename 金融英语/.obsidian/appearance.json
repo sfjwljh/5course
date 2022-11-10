@@ -2,6 +2,5 @@
   "baseFontSize": 23,
   "cssTheme": "",
   "theme": "moonstone",
-  "translucency": false,
-  "accentColor": ""
+  "translucency": false
 }

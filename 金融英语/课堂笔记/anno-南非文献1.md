@@ -521,3 +521,45 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >#问题
 ^aaenesrv2f
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T13:47:02.344Z","text":"未平仓头寸,敞口头寸","updated":"2022-11-13T13:47:02.344Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":18646,"end":18660},{"type":"TextQuoteSelector","exact":"open position ","prefix":"ons  of the rand by growing its ","suffix":"on its  forward book in the forw"}]}]}
+>```
+>%%
+>*%%PREFIX%%ons  of the rand by growing its%%HIGHLIGHT%% ==open position== %%POSTFIX%%on its  forward book in the forw*
+>%%LINK%%[[#^4jr3kcljspm|show annotation]]
+>%%COMMENT%%
+>未平仓头寸,敞口头寸
+>%%TAGS%%
+>
+^4jr3kcljspm
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T13:48:04.712Z","text":"账簿","updated":"2022-11-13T13:48:04.712Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":18675,"end":18681},{"type":"TextQuoteSelector","exact":" book ","prefix":"ts open position on its  forward","suffix":"in the forward foreign exchange "}]}]}
+>```
+>%%
+>*%%PREFIX%%ts open position on its  forward%%HIGHLIGHT%% ==book== %%POSTFIX%%in the forward foreign exchange*
+>%%LINK%%[[#^6urpg9uzebc|show annotation]]
+>%%COMMENT%%
+>账簿
+>%%TAGS%%
+>
+^6urpg9uzebc
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T13:49:20.132Z","text":"达到顶点,以...为高潮","updated":"2022-11-13T13:49:20.132Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":18766,"end":18777},{"type":"TextQuoteSelector","exact":"culminated ","prefix":"). Unfortunately, this practice ","suffix":"into a large net open position a"}]}]}
+>```
+>%%
+>*%%PREFIX%%). Unfortunately, this practice%%HIGHLIGHT%% ==culminated== %%POSTFIX%%into a large net open position a*
+>%%LINK%%[[#^yvwpvnwhhq|show annotation]]
+>%%COMMENT%%
+>达到顶点,以...为高潮
+>%%TAGS%%
+>
+^yvwpvnwhhq

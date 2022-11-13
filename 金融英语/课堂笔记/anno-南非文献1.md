@@ -143,3 +143,17 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^7omgh6bz4li
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T07:56:25.644Z","text":"多元","updated":"2022-11-13T07:56:25.644Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":7455,"end":7468},{"type":"TextQuoteSelector","exact":"multivariate ","prefix":"  combines  Johansen’s  (1995)  ","suffix":" cointegration  technique  with "}]}]}
+>```
+>%%
+>*%%PREFIX%%combines  Johansen’s  (1995)%%HIGHLIGHT%% ==multivariate== %%POSTFIX%%cointegration  technique  with*
+>%%LINK%%[[#^jlq4oeya3yh|show annotation]]
+>%%COMMENT%%
+>多元
+>%%TAGS%%
+>
+^jlq4oeya3yh

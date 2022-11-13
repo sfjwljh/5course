@@ -339,3 +339,45 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^kciwudqhvvs
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T12:55:30.485Z","text":"使...恢复","updated":"2022-11-13T12:55:30.485Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":16072,"end":16083},{"type":"TextQuoteSelector","exact":"  reinstate","prefix":"985  forced  the authorities  to","suffix":"  the  dual  exchange  rate  reg"}]}]}
+>```
+>%%
+>*%%PREFIX%%985  forced  the authorities  to%%HIGHLIGHT%% ==reinstate== %%POSTFIX%%the  dual  exchange  rate  reg*
+>%%LINK%%[[#^0pdkuqjqir6a|show annotation]]
+>%%COMMENT%%
+>使...恢复
+>%%TAGS%%
+>
+^0pdkuqjqir6a
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T12:57:35.917Z","text":"停止,中断","updated":"2022-11-13T12:57:35.917Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":16352,"end":16362},{"type":"TextQuoteSelector","exact":"cessation ","prefix":"inst South Africa that included ","suffix":"of new lending and freezing  of "}]}]}
+>```
+>%%
+>*%%PREFIX%%inst South Africa that included%%HIGHLIGHT%% ==cessation== %%POSTFIX%%of new lending and freezing  of*
+>%%LINK%%[[#^3we2vrf2g8p|show annotation]]
+>%%COMMENT%%
+>停止,中断
+>%%TAGS%%
+>
+^3we2vrf2g8p
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T12:58:46.237Z","text":"成问题的,棘手的","updated":"2022-11-13T12:58:46.237Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":16430,"end":16443},{"type":"TextQuoteSelector","exact":"  problematic","prefix":"sting  credit  lines.  This  was","suffix":"  for  South  Africa  because Am"}]}]}
+>```
+>%%
+>*%%PREFIX%%sting  credit  lines.  This  was%%HIGHLIGHT%% ==problematic== %%POSTFIX%%for  South  Africa  because Am*
+>%%LINK%%[[#^34agfx20fkm|show annotation]]
+>%%COMMENT%%
+>成问题的,棘手的
+>%%TAGS%%
+>
+^34agfx20fkm

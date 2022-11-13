@@ -381,3 +381,31 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^34agfx20fkm
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T13:00:42.937Z","text":"大部分","updated":"2022-11-13T13:00:42.937Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":16533,"end":16538},{"type":"TextQuoteSelector","exact":"bulk ","prefix":" Chase Manhattan Bank, held the ","suffix":"of its foreign debt,  mostly  sh"}]}]}
+>```
+>%%
+>*%%PREFIX%%Chase Manhattan Bank, held the%%HIGHLIGHT%% ==bulk== %%POSTFIX%%of its foreign debt,  mostly  sh*
+>%%LINK%%[[#^oc4kaku94ps|show annotation]]
+>%%COMMENT%%
+>大部分
+>%%TAGS%%
+>
+^oc4kaku94ps
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T13:03:18.800Z","text":"终止;[金]延期偿付","updated":"2022-11-13T13:03:18.800Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":16780,"end":16791},{"type":"TextQuoteSelector","exact":" moratorium","prefix":"gn debt obligations by declaring","suffix":" on its repayments (Ayogu & Dezh"}]}]}
+>```
+>%%
+>*%%PREFIX%%gn debt obligations by declaring%%HIGHLIGHT%% ==moratorium== %%POSTFIX%%on its repayments (Ayogu & Dezh*
+>%%LINK%%[[#^uwampnptgj|show annotation]]
+>%%COMMENT%%
+>终止;[金]延期偿付
+>%%TAGS%%
+>
+^uwampnptgj

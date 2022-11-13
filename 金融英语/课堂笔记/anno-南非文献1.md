@@ -241,3 +241,45 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^ycb34c67m2
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T08:32:04.384Z","text":"次的,下等的","updated":"2022-11-13T08:32:04.384Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":13615,"end":13624},{"type":"TextQuoteSelector","exact":"inferior ","prefix":"oolchildren in Soweto protested ","suffix":"education for blacks. Supporting"}]}]}
+>```
+>%%
+>*%%PREFIX%%oolchildren in Soweto protested%%HIGHLIGHT%% ==inferior== %%POSTFIX%%education for blacks. Supporting*
+>%%LINK%%[[#^ml8bcxfiyca|show annotation]]
+>%%COMMENT%%
+>次的,下等的
+>%%TAGS%%
+>
+^ml8bcxfiyca
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T08:33:22.595Z","text":"吵闹的;骚乱的","updated":"2022-11-13T08:33:22.595Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":13815,"end":13828},{"type":"TextQuoteSelector","exact":"  tumultuous ","prefix":"ica.  This  combination  of  the","suffix":" political  environment  at  hom"}]}]}
+>```
+>%%
+>*%%PREFIX%%ica.  This  combination  of  the%%HIGHLIGHT%% ==tumultuous== %%POSTFIX%%political  environment  at  hom*
+>%%LINK%%[[#^tj7o035waej|show annotation]]
+>%%COMMENT%%
+>吵闹的;骚乱的
+>%%TAGS%%
+>
+^tj7o035waej
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T08:34:19.462Z","text":"不利的,有害的;相反的,敌对的","updated":"2022-11-13T08:34:19.462Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":14023,"end":14031},{"type":"TextQuoteSelector","exact":" adverse","prefix":"t  capital.  On  top  of  that, ","suffix":"  global economic developments, "}]}]}
+>```
+>%%
+>*%%PREFIX%%t  capital.  On  top  of  that,%%HIGHLIGHT%% ==adverse== %%POSTFIX%%global economic developments,*
+>%%LINK%%[[#^t2iytuefvc8|show annotation]]
+>%%COMMENT%%
+>不利的,有害的;相反的,敌对的
+>%%TAGS%%
+>
+^t2iytuefvc8

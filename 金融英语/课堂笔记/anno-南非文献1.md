@@ -20,13 +20,27 @@ annotation-target: 南非文献1.pdf
 
 >%%
 >```annotation-json
->{"created":"2022-11-13T02:03:19.984Z","text":"锚地","updated":"2022-11-13T02:03:19.984Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/artical1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/artical1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/artical1.pdf","selector":[{"type":"TextPositionSelector","start":715,"end":725},{"type":"TextQuoteSelector","exact":"anchorage ","prefix":"n South Africa has affected the ","suffix":"of the exchange rate to fundamen"}]}]}
+>{"text":"锚定","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/artical1.pdf","selector":[{"type":"TextPositionSelector","start":715,"end":725},{"type":"TextQuoteSelector","exact":"anchorage ","prefix":"n South Africa has affected the","suffix":"of the exchange rate to fundamen"}]}],"created":"2022-11-13T02:03:19.984Z","updated":"2022-11-13T02:03:19.984Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/artical1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/artical1.pdf"}
 >```
 >%%
 >*%%PREFIX%%n South Africa has affected the%%HIGHLIGHT%% ==anchorage== %%POSTFIX%%of the exchange rate to fundamen*
 >%%LINK%%[[#^nyzksybvoo|show annotation]]
 >%%COMMENT%%
->锚地
+>锚定
 >%%TAGS%%
 >
 ^nyzksybvoo
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T02:14:11.767Z","text":"种种的,大量的","updated":"2022-11-13T02:14:11.767Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":958,"end":966},{"type":"TextQuoteSelector","exact":"myriad  ","prefix":"  exchange  market  through  a  ","suffix":"of  changes  to  its  exchange r"}]}]}
+>```
+>%%
+>*%%PREFIX%%exchange  market  through  a%%HIGHLIGHT%% ==myriad== %%POSTFIX%%of  changes  to  its  exchange r*
+>%%LINK%%[[#^kqsnpknfsnq|show annotation]]
+>%%COMMENT%%
+>种种的,大量的
+>%%TAGS%%
+>
+^kqsnpknfsnq

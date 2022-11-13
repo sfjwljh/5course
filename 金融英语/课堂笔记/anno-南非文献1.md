@@ -620,3 +620,17 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^42y24ka8ea2
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T16:02:18.541Z","text":"<formal>功效，效力","updated":"2022-11-13T16:02:18.541Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":20569,"end":20578},{"type":"TextQuoteSelector","exact":" efficacy","prefix":"olicy  instrument.  For  policy ","suffix":"  and  thereby  credibility,  th"}]}]}
+>```
+>%%
+>*%%PREFIX%%olicy  instrument.  For  policy%%HIGHLIGHT%% ==efficacy== %%POSTFIX%%and  thereby  credibility,  th*
+>%%LINK%%[[#^ipuaf09dpy|show annotation]]
+>%%COMMENT%%
+><formal>功效，效力
+>%%TAGS%%
+>
+^ipuaf09dpy

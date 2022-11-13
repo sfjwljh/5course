@@ -634,3 +634,33 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^ipuaf09dpy
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T16:08:43.798Z","text":"adv 因此\n感觉类似therefore","updated":"2022-11-13T16:08:43.798Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":20584,"end":20594},{"type":"TextQuoteSelector","exact":" thereby  ","prefix":"nt.  For  policy  efficacy  and ","suffix":"credibility,  the  regime  of in"}]}]}
+>```
+>%%
+>*%%PREFIX%%nt.  For  policy  efficacy  and%%HIGHLIGHT%% ==thereby== %%POSTFIX%%credibility,  the  regime  of in*
+>%%LINK%%[[#^u3um4ar7prr|show annotation]]
+>%%COMMENT%%
+>adv 因此
+>感觉类似therefore
+>%%TAGS%%
+>
+^u3um4ar7prr
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T15:54:53.780Z","text":"adj 中间的；中级的\nn 中级水平者；中间体","updated":"2022-11-13T15:54:53.780Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":20484,"end":20498},{"type":"TextQuoteSelector","exact":"  intermediate","prefix":"icit  inflation  forecast as the","suffix":" variable, and  interest rate as"}]}]}
+>```
+>%%
+>*%%PREFIX%%icit  inflation  forecast as the%%HIGHLIGHT%% ==intermediate== %%POSTFIX%%variable, and  interest rate as*
+>%%LINK%%[[#^1dfwzw7s15o|show annotation]]
+>%%COMMENT%%
+>adj 中间的；中级的
+>n 中级水平者；中间体
+>%%TAGS%%
+>
+^1dfwzw7s15o

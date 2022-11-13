@@ -409,3 +409,31 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^uwampnptgj
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T13:05:13.939Z","text":"阻碍","updated":"2022-11-13T13:05:13.939Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":16898,"end":16904},{"type":"TextQuoteSelector","exact":"impede","prefix":"t crisis emerged. This  in turn ","suffix":"d  external  financing  of  curr"}]}]}
+>```
+>%%
+>*%%PREFIX%%t crisis emerged. This  in turn%%HIGHLIGHT%% ==impede== %%POSTFIX%%d  external  financing  of  curr*
+>%%LINK%%[[#^ey3xf9rk5s|show annotation]]
+>%%COMMENT%%
+>阻碍
+>%%TAGS%%
+>
+^ey3xf9rk5s
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T13:06:40.284Z","text":"赤字,亏损","updated":"2022-11-13T13:06:40.284Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":16950,"end":16958},{"type":"TextQuoteSelector","exact":"deficits","prefix":"inancing  of  current  account  ","suffix":",  which  the  debt  crisis indu"}]}]}
+>```
+>%%
+>*%%PREFIX%%inancing  of  current  account%%HIGHLIGHT%% ==deficits== %%POSTFIX%%,  which  the  debt  crisis indu*
+>%%LINK%%[[#^2kk70u0wom3|show annotation]]
+>%%COMMENT%%
+>赤字,亏损
+>%%TAGS%%
+>
+^2kk70u0wom3

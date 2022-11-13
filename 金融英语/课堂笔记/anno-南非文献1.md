@@ -227,3 +227,17 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^w0lslpfj24i
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T08:27:37.453Z","text":"遣送回国,把利润调回本国","updated":"2022-11-13T08:27:37.453Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":13141,"end":13154},{"type":"TextQuoteSelector","exact":"repatriating ","prefix":"ards.    4 non-residents  from  ","suffix":" proceeds of their  investments "}]}]}
+>```
+>%%
+>*%%PREFIX%%ards.    4 non-residents  from%%HIGHLIGHT%% ==repatriating== %%POSTFIX%%proceeds of their  investments*
+>%%LINK%%[[#^ycb34c67m2|show annotation]]
+>%%COMMENT%%
+>遣送回国,把利润调回本国
+>%%TAGS%%
+>
+^ycb34c67m2

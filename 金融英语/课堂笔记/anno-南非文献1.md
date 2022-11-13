@@ -507,3 +507,17 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^banwedhlnig
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T13:42:59.210Z","text":"第一个this是啥","updated":"2022-11-13T13:42:59.210Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":18074,"end":18279},{"type":"TextQuoteSelector","exact":"  This  followed  successful political  reconciliation  in  1994  that  saw  the  political  regime  make  the  transition from  Apartheid  to  all  inclusive  democracy  that  ended  economic  isolation. ","prefix":"financial  rand  was  withdrawn.","suffix":" The change to exchange rate reg"}]}]}
+>```
+>%%
+>*%%PREFIX%%financial  rand  was  withdrawn.%%HIGHLIGHT%% ==This  followed  successful political  reconciliation  in  1994  that  saw  the  political  regime  make  the  transition from  Apartheid  to  all  inclusive  democracy  that  ended  economic  isolation.== %%POSTFIX%%The change to exchange rate reg*
+>%%LINK%%[[#^aaenesrv2f|show annotation]]
+>%%COMMENT%%
+>第一个this是啥
+>%%TAGS%%
+>#问题
+^aaenesrv2f

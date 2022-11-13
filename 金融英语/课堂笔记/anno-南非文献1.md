@@ -157,3 +157,17 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^jlq4oeya3yh
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T08:03:04.562Z","text":"范围,视野,地平线","updated":"2022-11-13T08:03:04.562Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":8906,"end":8915},{"type":"TextQuoteSelector","exact":" horizon ","prefix":" the choice  of  exchange  rate ","suffix":" and  the  effect  of  regimes  "}]}]}
+>```
+>%%
+>*%%PREFIX%%the choice  of  exchange  rate%%HIGHLIGHT%% ==horizon== %%POSTFIX%%and  the  effect  of  regimes*
+>%%LINK%%[[#^fhenwa0vbg|show annotation]]
+>%%COMMENT%%
+>范围,视野,地平线
+>%%TAGS%%
+>
+^fhenwa0vbg

@@ -171,3 +171,31 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^fhenwa0vbg
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T08:04:50.179Z","text":"adv 在其中","updated":"2022-11-13T08:04:50.179Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":9141,"end":9148},{"type":"TextQuoteSelector","exact":"thereof","prefix":" paper  and  discusses  results ","suffix":". Finally, section 5 contains co"}]}]}
+>```
+>%%
+>*%%PREFIX%%paper  and  discusses  results%%HIGHLIGHT%% ==thereof== %%POSTFIX%%. Finally, section 5 contains co*
+>%%LINK%%[[#^605lx3axhy6|show annotation]]
+>%%COMMENT%%
+>adv 在其中
+>%%TAGS%%
+>
+^605lx3axhy6
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T08:10:02.042Z","text":"单一的","updated":"2022-11-13T08:10:02.042Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":10647,"end":10654},{"type":"TextQuoteSelector","exact":"Unitary","prefix":"l rand VIII Feb 1983 – Aug 1985 ","suffix":" exchange rate: Managed float ra"}]}]}
+>```
+>%%
+>*%%PREFIX%%l rand VIII Feb 1983 – Aug 1985%%HIGHLIGHT%% ==Unitary== %%POSTFIX%%exchange rate: Managed float ra*
+>%%LINK%%[[#^zz2gq4xvfsf|show annotation]]
+>%%COMMENT%%
+>单一的
+>%%TAGS%%
+>
+^zz2gq4xvfsf

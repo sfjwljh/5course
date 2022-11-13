@@ -101,3 +101,31 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^su3dcihryv
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T02:45:09.173Z","text":"名义的","updated":"2022-11-13T02:45:09.173Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":4569,"end":4578},{"type":"TextQuoteSelector","exact":"  nominal","prefix":"tion  in  volatility  of  a  key","suffix":"  variable  should improve  info"}]}]}
+>```
+>%%
+>*%%PREFIX%%tion  in  volatility  of  a  key%%HIGHLIGHT%% ==nominal== %%POSTFIX%%variable  should improve  info*
+>%%LINK%%[[#^g628bxspyii|show annotation]]
+>%%COMMENT%%
+>名义的
+>%%TAGS%%
+>
+^g628bxspyii
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T02:48:55.778Z","text":"by在这里表示什么","updated":"2022-11-13T02:48:55.778Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":5383,"end":5386},{"type":"TextQuoteSelector","exact":" by","prefix":" variations in the exchange rate","suffix":" as much as four percent in a si"}]}]}
+>```
+>%%
+>*%%PREFIX%%variations in the exchange rate%%HIGHLIGHT%% ==by== %%POSTFIX%%as much as four percent in a si*
+>%%LINK%%[[#^8m2c52ls3u3|show annotation]]
+>%%COMMENT%%
+>by在这里表示什么
+>%%TAGS%%
+>#问题
+^8m2c52ls3u3

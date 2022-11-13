@@ -734,3 +734,59 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^8uc4okixjvm
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T16:30:39.384Z","text":"不理解这个to","updated":"2022-11-13T16:30:39.384Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":21979,"end":21981},{"type":"TextQuoteSelector","exact":"to","prefix":"  in  which market  conditions  ","suffix":"  influence  the  domestic  fore"}]}]}
+>```
+>%%
+>*%%PREFIX%%in  which market  conditions%%HIGHLIGHT%% ==to== %%POSTFIX%%influence  the  domestic  fore*
+>%%LINK%%[[#^ipdl7nbh9k|show annotation]]
+>%%COMMENT%%
+>不理解这个to
+>%%TAGS%%
+>#问题
+^ipdl7nbh9k
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T16:32:20.856Z","text":"过度地","updated":"2022-11-13T16:32:20.856Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":22111,"end":22117},{"type":"TextQuoteSelector","exact":"overly","prefix":"hange  rate  regime  has  been  ","suffix":"  sensitive  to political  devel"}]}]}
+>```
+>%%
+>*%%PREFIX%%hange  rate  regime  has  been%%HIGHLIGHT%% ==overly== %%POSTFIX%%sensitive  to political  devel*
+>%%LINK%%[[#^wn2maigwarh|show annotation]]
+>%%COMMENT%%
+>过度地
+>%%TAGS%%
+>
+^wn2maigwarh
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T16:33:42.418Z","text":"相伴的；共存的","updated":"2022-11-13T16:33:42.418Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":22227,"end":22238},{"type":"TextQuoteSelector","exact":"concomitant","prefix":"tion  targeting,  however, the  ","suffix":"  dismantling  of  exchange  con"}]}]}
+>```
+>%%
+>*%%PREFIX%%tion  targeting,  however, the%%HIGHLIGHT%% ==concomitant== %%POSTFIX%%dismantling  of  exchange  con*
+>%%LINK%%[[#^yjo6ra5mxwe|show annotation]]
+>%%COMMENT%%
+>相伴的；共存的
+>%%TAGS%%
+>
+^yjo6ra5mxwe
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T16:35:27.482Z","text":"诚然","updated":"2022-11-13T16:35:27.482Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":22489,"end":22499},{"type":"TextQuoteSelector","exact":"Admittedly","prefix":", at in  the  “dejure”  sense.  ","suffix":",  since  implementation  of  in"}]}]}
+>```
+>%%
+>*%%PREFIX%%, at in  the  “dejure”  sense.%%HIGHLIGHT%% ==Admittedly== %%POSTFIX%%,  since  implementation  of  in*
+>%%LINK%%[[#^wotl7lnrrx7|show annotation]]
+>%%COMMENT%%
+>诚然
+>%%TAGS%%
+>
+^wotl7lnrrx7

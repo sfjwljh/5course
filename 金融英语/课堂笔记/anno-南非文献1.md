@@ -129,3 +129,17 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >#问题
 ^8m2c52ls3u3
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T07:54:54.210Z","text":"基本面","updated":"2022-11-13T07:54:54.210Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":7193,"end":7207},{"type":"TextQuoteSelector","exact":"fundamentals  ","prefix":"stablishing  whether  economic  ","suffix":"map  the  long  trends  in  the "}]}]}
+>```
+>%%
+>*%%PREFIX%%stablishing  whether  economic%%HIGHLIGHT%% ==fundamentals== %%POSTFIX%%map  the  long  trends  in  the*
+>%%LINK%%[[#^7omgh6bz4li|show annotation]]
+>%%COMMENT%%
+>基本面
+>%%TAGS%%
+>
+^7omgh6bz4li

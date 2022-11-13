@@ -283,3 +283,45 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^t2iytuefvc8
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T08:35:16.067Z","text":"应对措施","updated":"2022-11-13T08:35:16.067Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":14177,"end":14191},{"type":"TextQuoteSelector","exact":"countermeasure","prefix":"mission, 1985). Therefore, as a ","suffix":" to the capital outflows, the au"}]}]}
+>```
+>%%
+>*%%PREFIX%%mission, 1985). Therefore, as a%%HIGHLIGHT%% ==countermeasure== %%POSTFIX%%to the capital outflows, the au*
+>%%LINK%%[[#^b4b93htg2cn|show annotation]]
+>%%COMMENT%%
+>应对措施
+>%%TAGS%%
+>
+^b4b93htg2cn
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T08:36:09.719Z","text":"包含,由...组成","updated":"2022-11-13T08:36:09.719Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":14323,"end":14331},{"type":"TextQuoteSelector","exact":"comprise","prefix":"e  dual  exchange  rate  regime ","suffix":"d the commercial and financial r"}]}]}
+>```
+>%%
+>*%%PREFIX%%e  dual  exchange  rate  regime%%HIGHLIGHT%% ==comprise== %%POSTFIX%%d the commercial and financial r*
+>%%LINK%%[[#^kabhgz9iwk|show annotation]]
+>%%COMMENT%%
+>包含,由...组成
+>%%TAGS%%
+>
+^kabhgz9iwk
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T08:37:05.459Z","text":"指定,标明","updated":"2022-11-13T08:37:05.459Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":14479,"end":14490},{"type":"TextQuoteSelector","exact":"  designate","prefix":"actions  by  residents.  It  was","suffix":"d  a floating  rate,  but  subje"}]}]}
+>```
+>%%
+>*%%PREFIX%%actions  by  residents.  It  was%%HIGHLIGHT%% ==designate== %%POSTFIX%%d  a floating  rate,  but  subje*
+>%%LINK%%[[#^ao34zaknjnn|show annotation]]
+>%%COMMENT%%
+>指定,标明
+>%%TAGS%%
+>
+^ao34zaknjnn

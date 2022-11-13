@@ -577,3 +577,17 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^gmcvfduio4u
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T15:37:53.746Z","text":"逐步地","updated":"2022-11-13T15:37:53.746Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":19353,"end":19368},{"type":"TextQuoteSelector","exact":"progressively  ","prefix":",  but  they have  since  been  ","suffix":"slackened.  The  major  changes "}]}]}
+>```
+>%%
+>*%%PREFIX%%,  but  they have  since  been%%HIGHLIGHT%% ==progressively== %%POSTFIX%%slackened.  The  major  changes*
+>%%LINK%%[[#^gwbqqoqlvyv|show annotation]]
+>%%COMMENT%%
+>逐步地
+>%%TAGS%%
+>
+^gwbqqoqlvyv

@@ -325,3 +325,17 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^ao34zaknjnn
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T12:51:50.918Z","text":"远期","updated":"2022-11-13T12:51:50.918Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":15609,"end":15617},{"type":"TextQuoteSelector","exact":" forward","prefix":"ies  furthermore  introduced  a ","suffix":" market, to  enlarge  the  scope"}]}]}
+>```
+>%%
+>*%%PREFIX%%ies  furthermore  introduced  a%%HIGHLIGHT%% ==forward== %%POSTFIX%%market, to  enlarge  the  scope*
+>%%LINK%%[[#^kciwudqhvvs|show annotation]]
+>%%COMMENT%%
+>远期
+>%%TAGS%%
+>
+^kciwudqhvvs

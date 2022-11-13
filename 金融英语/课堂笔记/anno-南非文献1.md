@@ -60,15 +60,30 @@ annotation-target: 南非文献1.pdf
 ^fzxxnmpgjp
 
 
+
 >%%
 >```annotation-json
->{"created":"2022-11-13T02:16:14.022Z","updated":"2022-11-13T02:16:14.022Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":1049,"end":1135},{"type":"TextQuoteSelector","exact":"n  2000, the  country  changed  its monetary  policy  regime  to  inflation  targeting","prefix":"he  macroeconomic  landscape.  I","suffix":".  This  new  policy  regime  wa"}]}]}
+>{"created":"2022-11-13T02:31:22.312Z","text":"(规定或条件)严格的","updated":"2022-11-13T02:31:22.312Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":3562,"end":3572},{"type":"TextQuoteSelector","exact":"Stringent ","prefix":" 1990s  (Van  der Merwe, 1996). ","suffix":"exchange control regulations and"}]}]}
 >```
 >%%
->*%%PREFIX%%he  macroeconomic  landscape.  I%%HIGHLIGHT%% ==n  2000, the  country  changed  its monetary  policy  regime  to  inflation  targeting== %%POSTFIX%%.  This  new  policy  regime  wa*
->%%LINK%%[[#^osdkwyu49t|show annotation]]
+>*%%PREFIX%%1990s  (Van  der Merwe, 1996).%%HIGHLIGHT%% ==Stringent== %%POSTFIX%%exchange control regulations and*
+>%%LINK%%[[#^mr1g8ptyytd|show annotation]]
 >%%COMMENT%%
->
+>(规定或条件)严格的
 >%%TAGS%%
 >
-^osdkwyu49t
+^mr1g8ptyytd
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T02:33:18.221Z","text":"干预","updated":"2022-11-13T02:33:18.221Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":3620,"end":3632},{"type":"TextQuoteSelector","exact":"intervention","prefix":" regulations and regular market ","suffix":"s  by  the  South  African  Rese"}]}]}
+>```
+>%%
+>*%%PREFIX%%regulations and regular market%%HIGHLIGHT%% ==intervention== %%POSTFIX%%s  by  the  South  African  Rese*
+>%%LINK%%[[#^0x2kikzfhnqh|show annotation]]
+>%%COMMENT%%
+>干预
+>%%TAGS%%
+>
+^0x2kikzfhnqh

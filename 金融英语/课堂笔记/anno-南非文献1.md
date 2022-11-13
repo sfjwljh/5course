@@ -437,3 +437,17 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^2kk70u0wom3
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T13:28:46.486Z","text":"再引出","updated":"2022-11-13T13:28:46.486Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":17625,"end":17640},{"type":"TextQuoteSelector","exact":"reintroducing  ","prefix":"is as  the  prime  reason  for  ","suffix":"the  dual  rate  regime  at  thi"}]}]}
+>```
+>%%
+>*%%PREFIX%%is as  the  prime  reason  for%%HIGHLIGHT%% ==reintroducing== %%POSTFIX%%the  dual  rate  regime  at  thi*
+>%%LINK%%[[#^xpxf9wgse5c|show annotation]]
+>%%COMMENT%%
+>再引出
+>%%TAGS%%
+>
+^xpxf9wgse5c

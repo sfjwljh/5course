@@ -595,13 +595,28 @@ annotation-target: 南非文献1.pdf
 
 >%%
 >```annotation-json
->{"created":"2022-11-13T15:45:21.753Z","text":"接触对。。。的控制","updated":"2022-11-13T15:45:21.753Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":20128,"end":20137},{"type":"TextQuoteSelector","exact":"decontrol","prefix":"est  abroad.  Overall, exchange ","suffix":" is continuing, with the Ministr"}]}]}
+>{"created":"2022-11-13T15:45:21.753Z","text":"接触对。。。的控制\nn. 接触管治","updated":"2022-11-13T15:45:21.753Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":20128,"end":20137},{"type":"TextQuoteSelector","exact":"decontrol","prefix":"est  abroad.  Overall, exchange ","suffix":" is continuing, with the Ministr"}]}]}
 >```
 >%%
 >*%%PREFIX%%est  abroad.  Overall, exchange%%HIGHLIGHT%% ==decontrol== %%POSTFIX%%is continuing, with the Ministr*
 >%%LINK%%[[#^gjtsg4a53q4|show annotation]]
 >%%COMMENT%%
 >接触对。。。的控制
+>n. 接触管治
 >%%TAGS%%
 >
 ^gjtsg4a53q4
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T15:47:28.322Z","text":"<正式>必需的；必需品","updated":"2022-11-13T15:47:28.322Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":20190,"end":20199},{"type":"TextQuoteSelector","exact":"requisite","prefix":"the Ministry Finance announcing ","suffix":" changes each year. In February "}]}]}
+>```
+>%%
+>*%%PREFIX%%the Ministry Finance announcing%%HIGHLIGHT%% ==requisite== %%POSTFIX%%changes each year. In February*
+>%%LINK%%[[#^42y24ka8ea2|show annotation]]
+>%%COMMENT%%
+><正式>必需的；必需品
+>%%TAGS%%
+>
+^42y24ka8ea2

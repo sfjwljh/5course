@@ -790,3 +790,17 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^wotl7lnrrx7
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T16:39:36.769Z","text":"有弹性的；对困境有承受能力的，有韧性的","updated":"2022-11-13T16:39:36.769Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":22681,"end":22692},{"type":"TextQuoteSelector","exact":"resiliently","prefix":"isis  when  the  Reserve  Bank  ","suffix":"  relied on  its  interest  rate"}]}]}
+>```
+>%%
+>*%%PREFIX%%isis  when  the  Reserve  Bank%%HIGHLIGHT%% ==resiliently== %%POSTFIX%%relied on  its  interest  rate*
+>%%LINK%%[[#^7uz4vtvz6jt|show annotation]]
+>%%COMMENT%%
+>有弹性的；对困境有承受能力的，有韧性的
+>%%TAGS%%
+>
+^7uz4vtvz6jt

@@ -664,3 +664,31 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^1dfwzw7s15o
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T16:11:25.289Z","text":"<formal>阻止，妨碍","updated":"2022-11-13T16:11:25.289Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":20643,"end":20652},{"type":"TextQuoteSelector","exact":" preclude","prefix":"  regime  of inflation targeting","suffix":"s pre-commitment to an exchange "}]}]}
+>```
+>%%
+>*%%PREFIX%%regime  of inflation targeting%%HIGHLIGHT%% ==preclude== %%POSTFIX%%s pre-commitment to an exchange*
+>%%LINK%%[[#^qw9e3gzn7jl|show annotation]]
+>%%COMMENT%%
+><formal>阻止，妨碍
+>%%TAGS%%
+>
+^qw9e3gzn7jl
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T16:13:46.580Z","text":"（永久）关闭；结束，结尾；了结，解脱","updated":"2022-11-13T16:13:46.580Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":20942,"end":20949},{"type":"TextQuoteSelector","exact":"closure","prefix":"ation. This was helped with the ","suffix":" of the Reserve Bank’s negative "}]}]}
+>```
+>%%
+>*%%PREFIX%%ation. This was helped with the%%HIGHLIGHT%% ==closure== %%POSTFIX%%of the Reserve Bank’s negative*
+>%%LINK%%[[#^xdp3qj1i5j|show annotation]]
+>%%COMMENT%%
+>（永久）关闭；结束，结尾；了结，解脱
+>%%TAGS%%
+>
+^xdp3qj1i5j

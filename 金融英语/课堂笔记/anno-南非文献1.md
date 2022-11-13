@@ -199,3 +199,17 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^zz2gq4xvfsf
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T08:18:37.407Z","text":"还原,恢复","updated":"2022-11-13T08:18:37.407Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":11397,"end":11403},{"type":"TextQuoteSelector","exact":"revert","prefix":" of a basket of currencies,  it ","suffix":"ed to  fixed  peg  to  the  US  "}]}]}
+>```
+>%%
+>*%%PREFIX%%of a basket of currencies,  it%%HIGHLIGHT%% ==revert== %%POSTFIX%%ed to  fixed  peg  to  the  US*
+>%%LINK%%[[#^i8rcu5zhczn|show annotation]]
+>%%COMMENT%%
+>还原,恢复
+>%%TAGS%%
+>
+^i8rcu5zhczn

@@ -692,3 +692,17 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^xdp3qj1i5j
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T16:15:39.214Z","text":"停止，中断","updated":"2022-11-13T16:15:39.214Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":21015,"end":21024},{"type":"TextQuoteSelector","exact":"cessation","prefix":"t open position in May 2003 and ","suffix":" of its forward book in  the  fo"}]}]}
+>```
+>%%
+>*%%PREFIX%%t open position in May 2003 and%%HIGHLIGHT%% ==cessation== %%POSTFIX%%of its forward book in  the  fo*
+>%%LINK%%[[#^77bhmnpggtm|show annotation]]
+>%%COMMENT%%
+>停止，中断
+>%%TAGS%%
+>
+^77bhmnpggtm

@@ -451,3 +451,59 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^xpxf9wgse5c
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T13:30:18.927Z","text":"遗憾的是","updated":"2022-11-13T13:30:18.927Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":17774,"end":17787},{"type":"TextQuoteSelector","exact":"Regrettably, ","prefix":"s  were the  major contributor. ","suffix":" this  turbulent  political  env"}]}]}
+>```
+>%%
+>*%%PREFIX%%s  were the  major contributor.%%HIGHLIGHT%% ==Regrettably,== %%POSTFIX%%this  turbulent  political  env*
+>%%LINK%%[[#^snw5petudw|show annotation]]
+>%%COMMENT%%
+>遗憾的是
+>%%TAGS%%
+>
+^snw5petudw
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T13:30:52.465Z","text":"骚乱的","updated":"2022-11-13T13:30:52.465Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":17794,"end":17804},{"type":"TextQuoteSelector","exact":"turbulent ","prefix":"ontributor. Regrettably,  this  ","suffix":" political  environment  did  no"}]}]}
+>```
+>%%
+>*%%PREFIX%%ontributor. Regrettably,  this%%HIGHLIGHT%% ==turbulent== %%POSTFIX%%political  environment  did  no*
+>%%LINK%%[[#^3pixxlumkp5|show annotation]]
+>%%COMMENT%%
+>骚乱的
+>%%TAGS%%
+>
+^3pixxlumkp5
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T13:31:38.291Z","text":"平息","updated":"2022-11-13T13:31:38.291Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":17839,"end":17848},{"type":"TextQuoteSelector","exact":"subside  ","prefix":"litical  environment  did  not  ","suffix":"until  the  early 1990s when the"}]}]}
+>```
+>%%
+>*%%PREFIX%%litical  environment  did  not%%HIGHLIGHT%% ==subside== %%POSTFIX%%until  the  early 1990s when the*
+>%%LINK%%[[#^g837h0zqgd4|show annotation]]
+>%%COMMENT%%
+>平息
+>%%TAGS%%
+>
+^g837h0zqgd4
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T13:32:30.459Z","text":"和解","updated":"2022-11-13T13:32:30.459Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":17922,"end":17937},{"type":"TextQuoteSelector","exact":"reconciliation.","prefix":"es took steps towards political ","suffix":"  In March 1995, the exchange ra"}]}]}
+>```
+>%%
+>*%%PREFIX%%es took steps towards political%%HIGHLIGHT%% ==reconciliation.== %%POSTFIX%%In March 1995, the exchange ra*
+>%%LINK%%[[#^banwedhlnig|show annotation]]
+>%%COMMENT%%
+>和解
+>%%TAGS%%
+>
+^banwedhlnig

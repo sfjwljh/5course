@@ -44,3 +44,31 @@ annotation-target: 南非文献1.pdf
 >%%TAGS%%
 >
 ^kqsnpknfsnq
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T02:15:20.887Z","text":"格局","updated":"2022-11-13T02:15:20.887Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":1036,"end":1047},{"type":"TextQuoteSelector","exact":"landscape. ","prefix":"egime  and  the  macroeconomic  ","suffix":" In  2000, the  country  changed"}]}]}
+>```
+>%%
+>*%%PREFIX%%egime  and  the  macroeconomic%%HIGHLIGHT%% ==landscape.== %%POSTFIX%%In  2000, the  country  changed*
+>%%LINK%%[[#^fzxxnmpgjp|show annotation]]
+>%%COMMENT%%
+>格局
+>%%TAGS%%
+>
+^fzxxnmpgjp
+
+
+>%%
+>```annotation-json
+>{"created":"2022-11-13T02:16:14.022Z","updated":"2022-11-13T02:16:14.022Z","document":{"title":"Microsoft Word - Mtonga paper_Monetary Regime Change & South Africa Exchange Rate Mar 2011","link":[{"href":"urn:x-pdf:e7c8d2a55acc725f784a00f87d95440a"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf"}],"documentFingerprint":"e7c8d2a55acc725f784a00f87d95440a"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/%E5%8D%97%E9%9D%9E%E6%96%87%E7%8C%AE1.pdf","selector":[{"type":"TextPositionSelector","start":1049,"end":1135},{"type":"TextQuoteSelector","exact":"n  2000, the  country  changed  its monetary  policy  regime  to  inflation  targeting","prefix":"he  macroeconomic  landscape.  I","suffix":".  This  new  policy  regime  wa"}]}]}
+>```
+>%%
+>*%%PREFIX%%he  macroeconomic  landscape.  I%%HIGHLIGHT%% ==n  2000, the  country  changed  its monetary  policy  regime  to  inflation  targeting== %%POSTFIX%%.  This  new  policy  regime  wa*
+>%%LINK%%[[#^osdkwyu49t|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^osdkwyu49t

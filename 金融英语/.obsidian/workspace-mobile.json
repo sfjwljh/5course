@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "0a1095d4d19af4b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80d99d70df3f184",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca21f0dd5140f9f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课堂笔记/同义&近形辨析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cae880c7242bc916",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d6fb30a5997526bd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "365dfcf699555a9f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#问题",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4070d37ca03a7d7e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "89b506d3f3e003b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ed2b616549680843",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "课堂笔记/同义&近形辨析.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "723f017bbfeedd62",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "课堂笔记/同义&近形辨析.md"
+          }
+        }
+      },
+      {
+        "id": "df613ae691f4d6f7",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "2d1bc2a8603b0303",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "active": "ca21f0dd5140f9f9",
+  "lastOpenFiles": [
+    "课堂笔记/anno-南非文献1.md",
+    "课堂笔记/同义&近形辨析.md",
+    "课堂笔记/2022-11-14.md",
+    "课堂笔记/未命名 2.md",
+    "课堂笔记/未命名 1.md",
+    "课堂笔记/南非国际货币体系改革的立场及原因分析.md",
+    "课堂笔记/同义词.md"
+  ]
+}

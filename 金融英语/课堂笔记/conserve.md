@@ -1,0 +1,2 @@
+---
+aliases: [conservative，conserva]

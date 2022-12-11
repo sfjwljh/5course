@@ -22,5 +22,11 @@
   "spellcheck": true,
   "spellcheckLanguages": [
     "en-US"
-  ]
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 69
+  }
 }

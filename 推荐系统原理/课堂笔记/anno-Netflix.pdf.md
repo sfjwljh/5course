@@ -102,3 +102,31 @@ annotation-target: [Netflix.pdf]
 >%%TAGS%%
 >
 ^2tck9laxbip
+
+
+>%%
+>```annotation-json
+>{"created":"2022-12-22T16:12:45.981Z","text":"对通过相似矩阵查找相似电影的效果进行检验，发现效果不错。","updated":"2022-12-22T16:12:45.981Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":38186,"end":38194},{"type":"TextQuoteSelector","exact":"Vampires","prefix":" titlemovie_id323 1999.0 Modern ","suffix":"4044 1998.0 Subspecies 4: Bloods"}]}]}
+>```
+>%%
+>*%%PREFIX%%titlemovie_id323 1999.0 Modern%%HIGHLIGHT%% ==Vampires== %%POSTFIX%%4044 1998.0 Subspecies 4: Bloods*
+>%%LINK%%[[#^q3uaa6vbsji|show annotation]]
+>%%COMMENT%%
+>对通过相似矩阵查找相似电影的效果进行检验，发现效果不错。
+>%%TAGS%%
+>
+^q3uaa6vbsji
+
+
+>%%
+>```annotation-json
+>{"created":"2022-12-22T16:16:02.728Z","text":"输入给xgb的初始参数如下13个","updated":"2022-12-22T16:16:02.728Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":44946,"end":44993},{"type":"TextQuoteSelector","exact":"Reading from the file to make a Train_dataframe","prefix":"prepare again... 0:00:00.001000 ","suffix":"user movie GAvg sur1 sur2 sur3 s"}]}]}
+>```
+>%%
+>*%%PREFIX%%prepare again... 0:00:00.001000%%HIGHLIGHT%% ==Reading from the file to make a Train_dataframe== %%POSTFIX%%user movie GAvg sur1 sur2 sur3 s*
+>%%LINK%%[[#^r74lp0ysaxe|show annotation]]
+>%%COMMENT%%
+>输入给xgb的初始参数如下13个
+>%%TAGS%%
+>
+^r74lp0ysaxe

@@ -45,3 +45,60 @@ annotation-target: [Netflix.pdf]
 >%%TAGS%%
 >
 ^semq55xbmc
+
+
+>%%
+>```annotation-json
+>{"created":"2022-12-22T15:58:37.240Z","text":"电影的评分个数如上图所示\n90%以上的电影只有不超过四位数的评分次数，具有明显的长尾效应。","updated":"2022-12-22T15:58:37.240Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":14234,"end":14297},{"type":"TextQuoteSelector","exact":"But most of the movies(like 90%) got some hundereds of ratings.","prefix":"re rated by hugenumber of users.","suffix":"3.3.5 Number of ratings on each "}]}]}
+>```
+>%%
+>*%%PREFIX%%re rated by hugenumber of users.%%HIGHLIGHT%% ==But most of the movies(like 90%) got some hundereds of ratings.== %%POSTFIX%%3.3.5 Number of ratings on each*
+>%%LINK%%[[#^yzpuai4nxtc|show annotation]]
+>%%COMMENT%%
+>电影的评分个数如上图所示
+>90%以上的电影只有不超过四位数的评分次数，具有明显的长尾效应。
+>%%TAGS%%
+>
+^yzpuai4nxtc
+
+
+>%%
+>```annotation-json
+>{"created":"2022-12-22T16:01:21.274Z","text":"用户-物品矩阵 极其稀疏","updated":"2022-12-22T16:01:21.274Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":16762,"end":16808},{"type":"TextQuoteSelector","exact":"Sparsity Of Train matrix : 99.8292709259195 % ","prefix":"n_sparse_matrix.count_nonzero() ","suffix":" (2649430, 17771) 3.3.6.2 Creati"}]}]}
+>```
+>%%
+>*%%PREFIX%%n_sparse_matrix.count_nonzero()%%HIGHLIGHT%% ==Sparsity Of Train matrix : 99.8292709259195 %== %%POSTFIX%%(2649430, 17771) 3.3.6.2 Creati*
+>%%LINK%%[[#^955qxdbdazd|show annotation]]
+>%%COMMENT%%
+>用户-物品矩阵 极其稀疏
+>%%TAGS%%
+>
+^955qxdbdazd
+
+
+>%%
+>```annotation-json
+>{"created":"2022-12-22T16:02:34.682Z","text":"用户平均打分的概率密度函数有些异常，最明显的就是在5分处有个小峰，可能是有部分用户可能不管什么电影都打五分。相比之下电影的平均得分就比较平滑，呈现一个比较完美的正态分布。","updated":"2022-12-22T16:02:34.682Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":20838,"end":20852},{"type":"TextQuoteSelector","exact":"0:00:35.003443","prefix":"ax=ax1, hist=False,label='Pdf') ","suffix":" 3.3.8 Cold Start problem3.3.8.1"}]}]}
+>```
+>%%
+>*%%PREFIX%%ax=ax1, hist=False,label='Pdf')%%HIGHLIGHT%% ==0:00:35.003443== %%POSTFIX%%3.3.8 Cold Start problem3.3.8.1*
+>%%LINK%%[[#^tkvdmitf72f|show annotation]]
+>%%COMMENT%%
+>用户平均打分的概率密度函数有些异常，最明显的就是在5分处有个小峰，可能是有部分用户可能不管什么电影都打五分。相比之下电影的平均得分就比较平滑，呈现一个比较完美的正态分布。
+>%%TAGS%%
+>
+^tkvdmitf72f
+
+
+>%%
+>```annotation-json
+>{"created":"2022-12-22T16:07:55.976Z","text":"直接计算相似矩阵时间复杂度太高，希望通过矩阵分解来降维。","updated":"2022-12-22T16:07:55.976Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":27857,"end":27861},{"type":"TextQuoteSelector","exact":" SVD","prefix":" to reduce the dimentsions using","suffix":", so that it might speed upthe p"}]}]}
+>```
+>%%
+>*%%PREFIX%%to reduce the dimentsions using%%HIGHLIGHT%% ==SVD== %%POSTFIX%%, so that it might speed upthe p*
+>%%LINK%%[[#^2tck9laxbip|show annotation]]
+>%%COMMENT%%
+>直接计算相似矩阵时间复杂度太高，希望通过矩阵分解来降维。
+>%%TAGS%%
+>
+^2tck9laxbip

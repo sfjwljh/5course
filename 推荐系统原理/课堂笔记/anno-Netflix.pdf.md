@@ -130,3 +130,17 @@ annotation-target: [Netflix.pdf]
 >%%TAGS%%
 >
 ^r74lp0ysaxe
+
+
+>%%
+>```annotation-json
+>{"created":"2022-12-22T16:23:33.839Z","text":"划分训练集和测试集时，是先按照时间戳排序，然后取前80%作为训练集，后20%作为测试集，这不太合理，训练集显然有着明显的滞后性，应当在打乱时间的前提下划分，以避免这种偏差。","updated":"2022-12-22T16:23:33.839Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":107298,"end":107447},{"type":"TextQuoteSelector","exact":"Our data has temporal nature to it(Changes w.r.t time) , so we are sorting databased on the timestamp and splitting for test and train in ratio 80:20","prefix":"movie , user , rating , date)3. ","suffix":"4. Did some Exploratory data Ana"}]}]}
+>```
+>%%
+>*%%PREFIX%%movie , user , rating , date)3.%%HIGHLIGHT%% ==Our data has temporal nature to it(Changes w.r.t time) , so we are sorting databased on the timestamp and splitting for test and train in ratio 80:20== %%POSTFIX%%4. Did some Exploratory data Ana*
+>%%LINK%%[[#^0ve0p0ebpzrm|show annotation]]
+>%%COMMENT%%
+>划分训练集和测试集时，是先按照时间戳排序，然后取前80%作为训练集，后20%作为测试集，这不太合理，训练集显然有着明显的滞后性，应当在打乱时间的前提下划分，以避免这种偏差。
+>%%TAGS%%
+>
+^0ve0p0ebpzrm

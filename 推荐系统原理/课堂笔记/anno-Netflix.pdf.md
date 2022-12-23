@@ -215,3 +215,17 @@ annotation-target: [Netflix.pdf]
 >%%TAGS%%
 >
 ^mmivfqi6j7q
+
+
+>%%
+>```annotation-json
+>{"created":"2022-12-23T02:00:59.523Z","text":"这里是对之前的四个推荐模型的结果使用xgb进行集成学习，分析各个模型的影响权重，发现SVD和基于相似用户的K近邻基线模型的权重较高。","updated":"2022-12-23T02:00:59.523Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":102405,"end":102431},{"type":"TextQuoteSelector","exact":"RMSE :  1.0752985555726848","prefix":" ------------------------------ ","suffix":" MAPE :  35.05049179795601 print"}]}]}
+>```
+>%%
+>*%%PREFIX%%------------------------------%%HIGHLIGHT%% ==RMSE :  1.0752985555726848== %%POSTFIX%%MAPE :  35.05049179795601 print*
+>%%LINK%%[[#^ixt4yfo0hu|show annotation]]
+>%%COMMENT%%
+>这里是对之前的四个推荐模型的结果使用xgb进行集成学习，分析各个模型的影响权重，发现SVD和基于相似用户的K近邻基线模型的权重较高。
+>%%TAGS%%
+>
+^ixt4yfo0hu

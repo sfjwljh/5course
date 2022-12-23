@@ -202,15 +202,16 @@ annotation-target: [Netflix.pdf]
 ^kpvgjklayf
 
 
+
 >%%
 >```annotation-json
->{"created":"2022-12-23T01:47:28.520Z","text":"这里提出了一种可能可以降低计算时间复杂度的方法。","updated":"2022-12-23T01:47:28.520Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":33579,"end":33605},{"type":"TextQuoteSelector","exact":"Dictionary Of Dictionaries","prefix":" simple method is to maintain a ","suffix":". - - key :userid - value: Again"}]}]}
+>{"created":"2022-12-23T01:51:43.064Z","text":"机器学习思路","updated":"2022-12-23T01:51:43.064Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":38593,"end":38616},{"type":"TextQuoteSelector","exact":"Machine Learning Models","prefix":"loc[sim_indices[:10]] Out[ ]:4. ","suffix":"6 2649429 Hyperparameter tuning "}]}]}
 >```
 >%%
->*%%PREFIX%%simple method is to maintain a%%HIGHLIGHT%% ==Dictionary Of Dictionaries== %%POSTFIX%%. - - key :userid - value: Again*
->%%LINK%%[[#^yskddlqj50k|show annotation]]
+>*%%PREFIX%%loc[sim_indices[:10]] Out[ ]:4.%%HIGHLIGHT%% ==Machine Learning Models== %%POSTFIX%%6 2649429 Hyperparameter tuning*
+>%%LINK%%[[#^mmivfqi6j7q|show annotation]]
 >%%COMMENT%%
->这里提出了一种可能可以降低计算时间复杂度的方法。
+>机器学习思路
 >%%TAGS%%
 >
-^yskddlqj50k
+^mmivfqi6j7q

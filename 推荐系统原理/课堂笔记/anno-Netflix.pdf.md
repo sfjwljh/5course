@@ -6,13 +6,13 @@ annotation-target: [Netflix.pdf]
 
 >%%
 >```annotation-json
->{"created":"2022-12-22T15:53:57.199Z","text":"所有用户打分分布情况","updated":"2022-12-22T15:53:57.199Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":10356,"end":10379},{"type":"TextQuoteSelector","exact":"Distribution of ratings","prefix":"98529,0.11;0.227941x0.77) 3.3.1 ","suffix":"In [ ]:# method to make y-axis m"}]}]}
+>{"created":"2022-12-22T15:53:57.199Z","text":"所有用户打分分布情况，整体呈现为一个右偏正态分布。","updated":"2022-12-22T15:53:57.199Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":10356,"end":10379},{"type":"TextQuoteSelector","exact":"Distribution of ratings","prefix":"98529,0.11;0.227941x0.77) 3.3.1 ","suffix":"In [ ]:# method to make y-axis m"}]}]}
 >```
 >%%
 >*%%PREFIX%%98529,0.11;0.227941x0.77) 3.3.1%%HIGHLIGHT%% ==Distribution of ratings== %%POSTFIX%%In [ ]:# method to make y-axis m*
 >%%LINK%%[[#^pf5u8h5wncc|show annotation]]
 >%%COMMENT%%
->所有用户打分分布情况
+>所有用户打分分布情况，整体呈现为一个右偏正态分布。
 >%%TAGS%%
 >
 ^pf5u8h5wncc
@@ -144,3 +144,17 @@ annotation-target: [Netflix.pdf]
 >%%TAGS%%
 >
 ^0ve0p0ebpzrm
+
+
+>%%
+>```annotation-json
+>{"created":"2022-12-23T01:34:45.005Z","text":"检查每周不同的时间记录到的评分的个数和分布情况。发现周六和周日的评分个数明显少于工作日，虽然有点违反常理但是对实验没有影响。从下面的箱型图可以看出，每天的所有打分的箱型都是一样的，就是说用户打分的分布不受星期几影响。并且我们基本认为用户对电影的品味保持不变，不可能今天给一部电影打5分，过一年突然就很讨厌它，想给它打1分。因此日期这个因子可以移除。","updated":"2022-12-23T01:34:45.005Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":14937,"end":14942},{"type":"TextQuoteSelector","exact":"start","prefix":"lt.show() 0:01:10.003761 In [ ]:","suffix":" = datetime.now() fig = plt.figu"}]}]}
+>```
+>%%
+>*%%PREFIX%%lt.show() 0:01:10.003761 In [ ]:%%HIGHLIGHT%% ==start== %%POSTFIX%%= datetime.now() fig = plt.figu*
+>%%LINK%%[[#^fe0p0oza2q|show annotation]]
+>%%COMMENT%%
+>检查每周不同的时间记录到的评分的个数和分布情况。发现周六和周日的评分个数明显少于工作日，虽然有点违反常理但是对实验没有影响。从下面的箱型图可以看出，每天的所有打分的箱型都是一样的，就是说用户打分的分布不受星期几影响。并且我们基本认为用户对电影的品味保持不变，不可能今天给一部电影打5分，过一年突然就很讨厌它，想给它打1分。因此日期这个因子可以移除。
+>%%TAGS%%
+>
+^fe0p0oza2q

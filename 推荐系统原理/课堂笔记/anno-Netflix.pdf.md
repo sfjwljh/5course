@@ -158,3 +158,59 @@ annotation-target: [Netflix.pdf]
 >%%TAGS%%
 >
 ^fe0p0oza2q
+
+
+>%%
+>```annotation-json
+>{"created":"2022-12-23T01:39:40.383Z","text":"分析统计特征后，通过构建用户-物品矩阵，进而想要计算出相似矩阵。","updated":"2022-12-23T01:39:40.383Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":15497,"end":15535},{"type":"TextQuoteSelector","exact":"Creating sparse matrix from data frame","prefix":"e: rating, dtype: float64 3.3.6 ","suffix":"3.3.6.1 Creating sparse matrix f"}]}]}
+>```
+>%%
+>*%%PREFIX%%e: rating, dtype: float64 3.3.6%%HIGHLIGHT%% ==Creating sparse matrix from data frame== %%POSTFIX%%3.3.6.1 Creating sparse matrix f*
+>%%LINK%%[[#^09rnd59pxy9|show annotation]]
+>%%COMMENT%%
+>分析统计特征后，通过构建用户-物品矩阵，进而想要计算出相似矩阵。
+>%%TAGS%%
+>
+^09rnd59pxy9
+
+
+>%%
+>```annotation-json
+>{"created":"2022-12-23T01:42:48.960Z","text":"选择隐因素个数，可以看到即便选择了500个隐因素，解释的总方差也仅在64%，相比与原来丢失了精度。","updated":"2022-12-23T01:42:48.960Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":29606,"end":29616},{"type":"TextQuoteSelector","exact":"plt.show()","prefix":"\"# Latent Facors\", fontsize=20) ","suffix":" In [ ]:for i in ind:     print("}]}]}
+>```
+>%%
+>*%%PREFIX%%"# Latent Facors", fontsize=20)%%HIGHLIGHT%% ==plt.show()== %%POSTFIX%%In [ ]:for i in ind:     print(*
+>%%LINK%%[[#^7coxhnzsyva|show annotation]]
+>%%COMMENT%%
+>选择隐因素个数，可以看到即便选择了500个隐因素，解释的总方差也仅在64%，相比与原来丢失了精度。
+>%%TAGS%%
+>
+^7coxhnzsyva
+
+
+>%%
+>```annotation-json
+>{"created":"2022-12-23T01:45:00.327Z","text":"结果发现，SVD不仅没有将时间降下来，反而提升了计算时长。这是因为原来的矩阵虽然维度很高，但是很稀疏。用SVD矩阵分解之后的矩阵虽然维度降低，但是矩阵密度上升了，计算相似度时的耗时大大增加，导致与预期相反的结果。","updated":"2022-12-23T01:45:00.327Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":32300,"end":32328},{"type":"TextQuoteSelector","exact":"57.099529861 \\text{ days}...","prefix":"370.388716667 \\text{ hours}==== ","suffix":"$- Even we run on 4 cores parall"}]}]}
+>```
+>%%
+>*%%PREFIX%%370.388716667 \text{ hours}====%%HIGHLIGHT%% ==57.099529861 \text{ days}...== %%POSTFIX%%$- Even we run on 4 cores parall*
+>%%LINK%%[[#^kpvgjklayf|show annotation]]
+>%%COMMENT%%
+>结果发现，SVD不仅没有将时间降下来，反而提升了计算时长。这是因为原来的矩阵虽然维度很高，但是很稀疏。用SVD矩阵分解之后的矩阵虽然维度降低，但是矩阵密度上升了，计算相似度时的耗时大大增加，导致与预期相反的结果。
+>%%TAGS%%
+>
+^kpvgjklayf
+
+
+>%%
+>```annotation-json
+>{"created":"2022-12-23T01:47:28.520Z","text":"这里提出了一种可能可以降低计算时间复杂度的方法。","updated":"2022-12-23T01:47:28.520Z","document":{"title":"Netflix.pdf","link":[{"href":"urn:x-pdf:8aaf9bffb69eeba34f5d06cbb10adf7b"},{"href":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf"}],"documentFingerprint":"8aaf9bffb69eeba34f5d06cbb10adf7b"},"uri":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","target":[{"source":"vault:/%E8%AF%BE%E4%BB%B6/Netflix.pdf","selector":[{"type":"TextPositionSelector","start":33579,"end":33605},{"type":"TextQuoteSelector","exact":"Dictionary Of Dictionaries","prefix":" simple method is to maintain a ","suffix":". - - key :userid - value: Again"}]}]}
+>```
+>%%
+>*%%PREFIX%%simple method is to maintain a%%HIGHLIGHT%% ==Dictionary Of Dictionaries== %%POSTFIX%%. - - key :userid - value: Again*
+>%%LINK%%[[#^yskddlqj50k|show annotation]]
+>%%COMMENT%%
+>这里提出了一种可能可以降低计算时间复杂度的方法。
+>%%TAGS%%
+>
+^yskddlqj50k
